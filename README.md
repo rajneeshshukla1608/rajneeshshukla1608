@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshshukla1608&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajneeshshukla1608" alt="rajneeshshukla1608" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 - 🔭 I’m currently working on **Deep learning Project**
 
 - 🌱 I’m currently learning **Machine Learning and Core DSA**
