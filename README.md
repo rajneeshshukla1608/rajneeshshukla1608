@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rajpg16@gmail.com**
 
-- ⚡ Only fact **You can code anything**
+- ⚡ Only fact **(You can code anything)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
