@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Core DSA**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on **Youtube - Go to the link below**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajneeshshukla1608](https://github.com/rajneeshshukla1608)
 
