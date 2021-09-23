@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajneesh <br> Love to code in C & C++ <br> Favourite ide Turbo C++</h1>
-<h3 align="center">A passionation in R&D(Reasearch and Development) love to figure out the things from their deep.</h3>
+<h3 align="center">A passionation in R&D(Reasearch and Development) love to figure out things  - Surface -> Deep -> Surface </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshshukla1608&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
 
