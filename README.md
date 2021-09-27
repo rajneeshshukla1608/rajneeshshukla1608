@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajneesh <br> Love to code in C & C++ <br> Favourite ide TurboC++</h1>
-<h3 align="center">A passionation in R&D(Reasearch and Development),A Machine Learning Enthusiast</h3>
+<h3 align="center">A passionation in R&D(Reasearch and Development) and A Machine Learning Enthusiast</h3>
 <h2 align="center">"I'm not a great programmer😜. I'm a good programmer with great habits🤷‍♂️" - Kent Beck</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshshukla1608&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshshukla1608" /> </p>
