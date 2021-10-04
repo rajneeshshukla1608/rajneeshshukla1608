@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajneesh <br> Love to code in C <br> Favourite ide TurboC++</h1>
+<h1 align="center">Hii 👋, I'm Rajneesh <br> Love to code in C <br> Favourite ide TurboC++</h1>
 <h3 align="center">A passionation in R&D(Reasearch and Development) and A Machine Learning Enthusiast</h3>
 <h2 align="center">"I'm not a great programmer😜. I'm a good programmer with great habits🤷‍♂️" - Kent Beck</h3>
 
