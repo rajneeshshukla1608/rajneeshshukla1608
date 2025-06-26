@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rajneesh Shukla Building a AIOPS Platform
+# Hi 👋 I'm Rajneesh Shukla, Building an AIOPS Platform
 
 **Software Developer | JavaScript & Golang Enthusiast | R&D Explorer | Machine Learning Learner**
 
